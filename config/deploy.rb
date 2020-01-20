@@ -2,7 +2,7 @@
 lock "~> 3.11.2"
 
 set :application, "contactbook"
-set :repo_url, "git@example.com:me/my_repo.git"
+set :repo_url, "git@github.com:github.com/nocnoi/contactbook.git"
 set :branch, :master
 set :deploy_tp, '/home/deploy/contactbook'
 set :pty, true
